@@ -1,0 +1,13 @@
+my world
+how are you
+Hello students 
+this is java code
+class A{
+
+  public static void main(String a[])
+{
+
+ System.out.println("hello");
+}
+}
+thanks 
